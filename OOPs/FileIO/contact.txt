@@ -1,0 +1,22 @@
+1)
+Name: Uma
+Age: 25
+Gender: Female
+City: Solapur
+State: Maharashtra
+Number: 9145788790
+2)
+Name: Usha
+Age: 28
+Gender: Female
+City: Pune
+State: Maharashtra
+Number: 9145788689
+3)
+Name: Cherry
+Age: 20
+Gender: Male
+City: Mumbai
+State: Maharashtra
+Number: 910012334
+
